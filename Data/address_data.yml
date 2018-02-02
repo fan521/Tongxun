@@ -1,0 +1,26 @@
+Address_Data:
+
+  address_001:
+    test_name: ""
+    test_phone: ""
+    except_data: ""
+
+  address_002:
+    test_name: "x"
+    test_phone: ""
+    expect_data: "x"
+
+  address_003:
+    test_name: ""
+    test_phone: "1 338-888-8888"
+    expect_data: "1 338-888-8888"
+
+  address_004:
+    test_name: "张三"
+    test_phone: "1 3388888888"
+    expect_data: "张三"
+
+
+
+
+
